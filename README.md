@@ -9,6 +9,20 @@ Projeto de recursos para aprendizagem de FPGA
 
 **Listas de tutoriais** 
 
+FPGA project with Prof Mughal
+https://www.youtube.com/watch?v=tOwMmBI_XNo&list=PLqFzqzGMquZxGdkwBd9C2RSLIIlS5IxcK&index=1
+
+<div align="left">
+    <img src="./images/ProfMughal.png" width="300" />
+</div>
+
+Digikey - Introduction to FPGA
+https://www.youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb
+
+<div align="left">
+    <img src="./images/Digikey.png" width="300" />
+</div>
+
 FPGA for Beginners - Electro Mullet  
 https://www.youtube.com/watch?v=V0VtzxQstJg&list=PLASHf7jviOmoArEq4TY1TlRfhttdddGWC
 
