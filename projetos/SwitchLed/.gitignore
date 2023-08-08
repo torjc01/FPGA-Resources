@@ -95,8 +95,8 @@
 */*/bd/*/ip/*/*.xml
 */*/*/bd/*/ip/*/*.xml
 
-#*.c
-#*.h
+*.c
+*.h
 *.vho
 *.html
 */*/bd/*/ip/*/*.tcl
@@ -108,24 +108,3 @@ ipshared
 *.wdb
 *.sdb
 *_behav
-*.bit
-*.xpr
-*.xml
-*.tcl
-*.init
-*.sh 
-*.txt
-*.bat
-*.prj
-*.ini
-*.rlx
-__synthesis_is_complete__
-
-*.bin
-*.asc
-*.out
-hardware.json
-*.dblite
-*.vcd
-
-build/
