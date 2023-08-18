@@ -9,6 +9,13 @@ Projeto de recursos para aprendizagem de FPGA
 
 **Listas de tutoriais** 
 
+Getting Started with FPGA Design ft. Knitronics   
+https://www.youtube.com/playlist?app=desktop&list=PLSTiCUiN_BoIM4anuvWS_bM7PTbECZ3PE
+<div align="left">
+    <img src="./images/Knitronics.png" width="300" />
+</div>
+
+--- 
 
 ECE 3829: Advanced Digital System Design with FPGAs  
 https://users.wpi.edu/~rjduck/
@@ -16,12 +23,15 @@ https://users.wpi.edu/~rjduck/
     <img src="./images/Duckworth.png" width="600" />
 </div>
 
+--- 
 
 FPGA project with Prof Mughal  
 https://www.youtube.com/watch?v=tOwMmBI_XNo&list=PLqFzqzGMquZxGdkwBd9C2RSLIIlS5IxcK&index=1
 <div align="left">
     <img src="./images/ProfMughal.png" width="400" />
 </div>
+
+--- 
 
 Digikey - Introduction to FPGA  
 https://www.youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb
@@ -30,12 +40,16 @@ https://www.youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb
     <img src="./images/Digikey.png" width="400" />
 </div>
 
+--- 
+
 FPGA for Beginners - Electro Mullet  VHDL  
 https://www.youtube.com/watch?v=V0VtzxQstJg&list=PLASHf7jviOmoArEq4TY1TlRfhttdddGWC
 
 <div align="left">
     <img src="./images/elecMullet.png" width="400" />
 </div>
+
+--- 
 
 FPGA Programming with Verilog & Basys3 - Dr Selim  
 https://www.youtube.com/watch?v=VtbPexCocVo&list=PLbFgDf51ZkCEJb9MvxKIs-0q2obouwf-f 
@@ -44,12 +58,16 @@ https://www.youtube.com/watch?v=VtbPexCocVo&list=PLbFgDf51ZkCEJb9MvxKIs-0q2obouw
     <img src="./images/drselim.png" width="400" />
 </div>
 
+--- 
+
 Xilinx FPGA programming tutorials - Simple Tutorials for Embedded Systems  
 https://www.youtube.com/watch?v=DIOll3P65hg&list=PLqOe1_kmWOx0oLBHI8O8WNO0QRjU8nzDD
 
 <div align="left">
     <img src="./images/simpletuts.png" width="400" />
 </div>
+
+--- 
 
 State Machines - FPGA Discovery  
 https://www.youtube.com/watch?v=EgK-M-zJ-1c&list=PLrx9yOWXx5lad0LKRLd4YwTT6QcSS5eyj
@@ -58,6 +76,7 @@ https://www.youtube.com/watch?v=EgK-M-zJ-1c&list=PLrx9yOWXx5lad0LKRLd4YwTT6QcSS5
     <img src="./images/fpgaDiscovery.png" width="400" />
 </div>
 
+--- 
 
 **Videos individuais** 
 
